@@ -10,7 +10,7 @@ module.exports = function(grunt) {
             },
             dist: {
                 files: {
-                    "dist/poker.js": "src/poker.js"
+                    "dist/blackjack.js": "src/blackjack.js"
                 }
             }
         }
