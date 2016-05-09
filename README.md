@@ -1,1 +1,1 @@
-# CASCI416PokerProject
+# CSCI416BlackjackProject
