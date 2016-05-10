@@ -88,7 +88,7 @@ class Hand():
         self_string = ''
 
         for idx, card in enumerate(self.cards):
-            self_string += str(idx + 1) + ') ' + card.__str__()
+            self_string += str(idx + 1) + ') ' + str(card)
             if idx != (len(self.cards) - 1):
                 self_string += '\n'
         return self_string
