@@ -11,7 +11,7 @@ I chose the following:
 
 ## Running Javascript
 
-### NOTE: Commands may differ in windows. Please refer to docs for node and grunt if there are issues, and remember to use the proper file-system directory separator.
+*NOTE: Commands may differ in Windows. Please refer to docs for node and grunt if there are issues, and remember to use the proper file-system directory separator.*
 
 For Javascript you will need `npm` installed globally along with `grunt`.
 
@@ -19,7 +19,7 @@ Once you have both, you can just navigate to the javascript directory and type `
 
 ## Running Python
 
-### NOTE: Commands may differ in windows. Please refer to docs for virtualenv if there are issues, and remember to use the proper file-system directory separator.
+*NOTE: Commands may differ in Windows. Please refer to docs for virtualenv if there are issues, and remember to use the proper file-system directory separator.*
 
 For Python, you will need `Python 3.5` and its package manager, `pip`.
 
