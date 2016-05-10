@@ -6,7 +6,7 @@ The goal of this project was to program a simple casino game in two languages of
 
 I chose the following:
 
-* Javascript, specifically Ecmascript2015 or ES6
+* Javascript (specifically Ecmascript2015 (or ES6)) via NodeJS
 * Python 3.5
 
 ## Running Javascript
