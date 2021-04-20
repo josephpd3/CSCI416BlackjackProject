@@ -86,7 +86,7 @@ ply==3.6
 praw==3.2.1
 psutil==2.2.1
 ptyprocess==0.4
-py==1.4.27
+py==1.10.0
 pyasn1==0.1.7
 pyasn1-modules==0.0.8
 pycosat==0.6.1
