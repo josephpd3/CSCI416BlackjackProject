@@ -131,7 +131,7 @@ tornado==4.2
 Twisted==15.4.0
 ujson==1.33
 update-checker==0.11
-urllib3==1.14
+urllib3==1.26.5
 w3lib==1.12.0
 wcwidth==0.1.6
 websocket-client==0.35.0
