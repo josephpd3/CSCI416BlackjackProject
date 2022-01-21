@@ -53,7 +53,7 @@ greenlet==0.4.7
 h5py==2.5.0
 idna==2.0
 inflect==0.2.5
-ipython==3.2.0
+ipython==7.16.3
 itsdangerous==0.24
 jdcal==1.0
 jedi==0.8.1
