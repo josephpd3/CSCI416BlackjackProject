@@ -81,7 +81,7 @@ pandas==0.17.0
 pathspec==0.3.3
 patsy==0.3.0
 pep8==1.6.2
-Pillow==2.8.2
+Pillow==9.0.1
 ply==3.6
 praw==3.2.1
 psutil==2.2.1
