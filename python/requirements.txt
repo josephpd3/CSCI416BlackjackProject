@@ -128,7 +128,7 @@ terminado==0.5
 texttable==0.8.4
 toolz==0.7.2
 tornado==4.2
-Twisted==15.4.0
+Twisted==22.2.0
 ujson==1.33
 update-checker==0.11
 urllib3==1.14
