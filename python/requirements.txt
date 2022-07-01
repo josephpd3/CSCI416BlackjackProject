@@ -76,7 +76,7 @@ numba==0.19.1
 numexpr==2.4.3
 numpy==1.10.1
 odo==0.3.2
-openpyxl==1.8.5
+openpyxl==2.4.2
 pandas==0.17.0
 pathspec==0.3.3
 patsy==0.3.0
