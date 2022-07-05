@@ -129,7 +129,7 @@ texttable==0.8.4
 toolz==0.7.2
 tornado==4.2
 Twisted==15.4.0
-ujson==1.33
+ujson==5.4.0
 update-checker==0.11
 urllib3==1.14
 w3lib==1.12.0
